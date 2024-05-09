@@ -1,0 +1,3 @@
+instructor
+python-dotenv
+rich
